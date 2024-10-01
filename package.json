@@ -57,7 +57,7 @@
     "test": "jest"
   },
   "lint-staged": {
-    "src/**/*.{ts,js,md}": [
+    "src/**/*.{ts,js}": [
       "eslint --fix",
       "prettier --write"
     ]
