@@ -65,3 +65,7 @@ Bằng cách áp dụng Strategy Pattern, chúng ta có thể dễ dàng mở r�
 ## Đây là một phần trong khoá học nhiều phần về các mẫu thiết kế (Design Patterns).
 
 Hãy theo dõi các phần tiếp theo để học thêm về các mẫu thiết kế khác và cách áp dụng chúng trong thực tế.
+
+## Ứng dụng thực tế
+
+Strategy Pattern thường được sử dụng trong các hệ thống xử lý thanh toán, xử lý tìm kiếm, xử lý định dạng dữ liệu, xử lý giao diện người dùng, v.v.
